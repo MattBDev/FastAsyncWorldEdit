@@ -9,6 +9,8 @@ import java.util.Base64;
 
 import static org.slf4j.LoggerFactory.getLogger;
 
+//TODO Rename this class or move to different package. 
+/** For internal FAWE use only. **/
 public enum Jars {
 
     MM_v1_7_8(
